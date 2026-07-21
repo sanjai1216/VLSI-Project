@@ -98,7 +98,7 @@ Through this project, I gained hands-on experience in:
 - Testbench Writing
 - Functional Verification
 - Simulation and Debugging
-- Vivado Design Flow
+- Design Flow
 
 ---
 
@@ -114,9 +114,9 @@ Through this project, I gained hands-on experience in:
 
 ## 👨‍💻 Author
 
-**Narasimha Lakkimsetty**
+**Sanjai R**
 
-B.Tech Electronics and Communication Engineering (ECE)
+B.E Electronics and Communication Engineering (ECE)
 
 ### Areas of Interest
 
@@ -124,11 +124,6 @@ B.Tech Electronics and Communication Engineering (ECE)
 - Design Verification
 - FPGA Development
 - Embedded Systems
-
-### Connect with Me
-
-- GitHub: https://github.com/narasimha-01
-- LinkedIn: www.linkedin.com/in/lakshminarasimhaswamy
 
 ---
 
